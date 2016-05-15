@@ -1,0 +1,25 @@
+{
+  "name": "redux-plugins-immutable-hot-loader",
+  "version": "1.0.0",
+  "description": "Hot loads redux-plugins-immutable plugins",
+  "main": "index.js",
+  "peerDependencies": {
+    "redux-plugins-immutable": "^1.2.0"
+  },
+  "dependencies": {
+    "loader-utils": "~0.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcoreio/redux-plugins-immutable-hot-loader.git"
+  },
+  "keywords": [
+    "redux-plugins-immutable"
+  ],
+  "author": "Andy Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcoreio/redux-plugins-immutable-hot-loader/issues"
+  },
+  "homepage": "https://github.com/jcoreio/redux-plugins-immutable-hot-loader#readme"
+}
