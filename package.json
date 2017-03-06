@@ -7,7 +7,7 @@
     "redux-plugins-immutable": "^1.2.0"
   },
   "dependencies": {
-    "loader-utils": "~0.2.6"
+    "loader-utils": "~1.0.3"
   },
   "repository": {
     "type": "git",
