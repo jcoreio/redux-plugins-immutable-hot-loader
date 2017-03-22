@@ -4,7 +4,7 @@
   "description": "Hot loads redux-plugins-immutable plugins",
   "main": "index.js",
   "peerDependencies": {
-    "redux-plugins-immutable": "^1.2.0"
+    "redux-plugins-immutable": "^1.2.2"
   },
   "dependencies": {
     "loader-utils": "~0.2.6"
